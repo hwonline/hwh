@@ -1,0 +1,11 @@
+{
+	"cmd":"getStartSmartLinks",
+	"responseStatus":"success",
+	"links":[
+		{"a":"http://aa.aa.aa"},
+		{"b":"http://bb.bb.bb"}
+	],
+
+	"firstName":"John",
+	"lastName":"Smith"
+}
